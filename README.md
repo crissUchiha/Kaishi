@@ -70,7 +70,7 @@ The most important option is whether you would like to include pitch accent on y
 	<div style="font-size: 20px; padding-top:12px">Note: {{Notes}}</div>
 {{/Notes}}
 
-<!-- This part enables pitch accent notes.
+This part enables pitch accent notes.
 
 {{#Pitch Accent Notes}}
 <div style="font-size: 20px; width: fit-content; max-width:40vw; margin: auto">
@@ -80,7 +80,6 @@ The most important option is whether you would like to include pitch accent on y
 </div>
 {{/Pitch Accent Notes}}
 
--->
 
 </div>
 ```
